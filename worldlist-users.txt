@@ -1,0 +1,14 @@
+admin
+administrator
+root
+user
+guest
+teste
+ftpuser
+smbuser
+operator
+suporte
+security
+dba
+ubuntu
+
