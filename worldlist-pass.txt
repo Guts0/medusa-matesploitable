@@ -1,0 +1,12 @@
+password
+123456
+123456789
+admin
+Admin123
+metasploit
+toor
+teste
+changeme
+welcome
+secret
+password123
